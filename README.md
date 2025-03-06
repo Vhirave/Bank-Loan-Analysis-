@@ -1,5 +1,5 @@
 # Bank-Loan-Data-Analysis
-An interactive dashboard was developed using raw data provided by the bank. This dashboard helps make informed, precise decisions that contribute to the growth of the bank's loan distribution.
+An interactive dashboard was developed using raw data from the bank. Uploaded images of the dashboards created in Excel, Power BI, and Tableau, along with MySQL code used for data processing.
 
 Tools Used in the project: Excel, PowerBI (PowerQuery fro Data cleaning), Tableau, MySQL, Python (pandas)
 
